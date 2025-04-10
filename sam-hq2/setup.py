@@ -31,7 +31,6 @@ REQUIRED_PACKAGES = [
     "pillow>=9.4.0",
     "matplotlib>=3.9.1",
     "opencv-python>=4.7.0",
-    "sam-2 @ git+https://github.com/horsto/sam2.git"
 ]
 
 EXTRA_PACKAGES = {
